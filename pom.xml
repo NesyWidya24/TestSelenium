@@ -19,6 +19,7 @@
         <apachepoi.version>	5.0.0</apachepoi.version>
         <maven.surefire.version>3.0.0-M3</maven.surefire.version>
         <maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
+        <aspectj.version>1.9.8.M1</aspectj.version>
     </properties>
 
     <dependencies>
